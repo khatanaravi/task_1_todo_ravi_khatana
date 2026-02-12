@@ -6,10 +6,10 @@
 1. Install dependencies:
 npm install
 
-2. Create ".env` file
+2. Create ".env" file
 
-MONGO_URI= your mongodb URI
-JWT_SECRET=  any secret key
+MONGO_URI= your_mongodb_URI
+JWT_SECRET=  any_secret_key
 PORT=5001
 
 3. Run:
